@@ -1,0 +1,6 @@
+Level 1 = Rescue 3 hostages safely.
+Level 2 = Rescue 2 hostages safely.
+Level 3 = Rescue hostage safely.
+Level 4 = Rescue 2 hostages safely.
+Level 5 = Steal the diamond.
+Level 6 = Direct inmates to escape from the prison.
