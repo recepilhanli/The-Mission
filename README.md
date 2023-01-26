@@ -6,12 +6,12 @@ Unity Hyper-Casual game project from my learning steps.
 ## Description
 it's simple stealth game. it has 2 game modes.
 
-[b]1.Escaping:[/b]
+**1.Escaping:**
 In this mode, you have to bring the hostages to rescue point.
 
 [![Gameplay Video](https://img.youtube.com/vi/KyNsTA0zKvI/0.jpg)](https://www.youtube.com/watch?v=KyNsTA0zKvI)
 
-[b]2. The Heist:[/b]
+**2. The Heist:**
 In this mode, you have to steal the specified item then go to escaping zone.
 
 [![Gameplay Video](https://img.youtube.com/vi/spUNkAUG1sQ/0.jpg)](https://www.youtube.com/watch?v=spUNkAUG1sQ)
