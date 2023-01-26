@@ -11,7 +11,7 @@ In this mode, you have to bring the hostages to rescue point.
 
 [![Gameplay Video](https://img.youtube.com/vi/KyNsTA0zKvI/0.jpg)](https://www.youtube.com/watch?v=KyNsTA0zKvI)
 
-**2. The Heist:**
+**2.The Heist:**
 In this mode, you have to steal the specified item then go to escaping zone.
 
 [![Gameplay Video](https://img.youtube.com/vi/spUNkAUG1sQ/0.jpg)](https://www.youtube.com/watch?v=spUNkAUG1sQ)
